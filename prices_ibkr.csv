@@ -1,15 +1,15 @@
 Ticker,URL,Currency,Price_EUR,Extended Name,Asset Allocation,Asset Class
 TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,222.4,iShares $ TIPS UCITS ETF USD (Acc),0.1,TIPS
 AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,163.67,iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),0.15,Govt Bond
-BIT:US10-EUR,https://www.google.com/finance/quote/US10-EUR:BIT,EUR,93.01,Amundi US Treasury Bond Long Dated UCITS ETF Dist,0.1,Govt Bond
+BIT:US10-EUR,https://www.google.com/finance/quote/US10-EUR:BIT,EUR,93,Amundi US Treasury Bond Long Dated UCITS ETF Dist,0.1,Govt Bond
 AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,233.04,iShares   Inflation Linked Govt Bd UCITS ETF EUR A,0.1,TIPS
 IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,151.56,iShares   Govt Bond 10-15yr UCITS ETF EUR (Dist),0.1,Govt Bond
-BIT:SGLD-ETFP,https://www.google.com/finance/quote/SGLD-ETFP:BIT,EUR,343.88,Invesco Physical Gold ETC,0.055,Commodity
-AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,109.5,iShares Core MSCI World UCITS ETF USD (Acc),0.29,Stocks
-EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,25.53,Amundi Blmbrg Eql Wgh Cmdt ex-Agrcltr UCITS ETF A,0.075,Commodity
-BIT:FLXI-ETFP,https://www.google.com/finance/quote/FLXI-ETFP:BIT,EUR,39.37,Franklin FTSE India UCITS ETF,0.01,Stocks
-NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,53.6389575,iShares Bitcoin Trust ETF,0.02,Commodity
-USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,0.8616699999999999,Dollar Eur Exchange,,Cambio
+BIT:SGLD-ETFP,https://www.google.com/finance/quote/SGLD-ETFP:BIT,EUR,343.55,Invesco Physical Gold ETC,0.055,Commodity
+AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,109.66,iShares Core MSCI World UCITS ETF USD (Acc),0.29,Stocks
+EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,25.46,Amundi Blmbrg Eql Wgh Cmdt ex-Agrcltr UCITS ETF A,0.075,Commodity
+BIT:FLXI-ETFP,https://www.google.com/finance/quote/FLXI-ETFP:BIT,EUR,39.42,Franklin FTSE India UCITS ETF,0.01,Stocks
+NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,53.58013079999999,iShares Bitcoin Trust ETF,0.02,Commodity
+USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,0.8611399999999999,Dollar Eur Exchange,,Cambio
 ,,,,,,
 Data,,,,,,
 23/10/2025,,,,,,
