@@ -8,8 +8,8 @@ BIT:SGLD-ETFP,https://www.google.com/finance/quote/SGLD-ETFP:BIT,EUR,343.56,Inve
 AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,109.75,iShares Core MSCI World UCITS ETF USD (Acc),0.29,Stocks
 EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,25.51,Amundi Blmbrg Eql Wgh Cmdt ex-Agrcltr UCITS ETF A,0.075,Commodity
 BIT:FLXI-ETFP,https://www.google.com/finance/quote/FLXI-ETFP:BIT,EUR,39.48,Franklin FTSE India UCITS ETF,0.01,Stocks
-NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,53.7517346,iShares Bitcoin Trust ETF,0.02,Commodity
-USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,0.86113,Dollar Eur Exchange,,Cambio
+NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,53.75594133864,iShares Bitcoin Trust ETF,0.02,Commodity
+USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,0.861059448,Dollar Eur Exchange,,Cambio
 ,,,,,,
 Data,,,,,,
 23/10/2025,,,,,,
