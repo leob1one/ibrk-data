@@ -1,4 +1,4 @@
-Ticker,URL,Currency,Price_EUR,Extended Name,Asset Allocation,Asset Class
+Ticker,URL,Fund Currency,Price in EUR,Extended Name,Asset Allocation,Asset Class
 TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,"222,4",iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
 AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"163,64",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
 BIT:US10-EUR,https://www.google.com/finance/quote/US10-EUR:BIT,EUR,"92,84",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
@@ -11,4 +11,4 @@ BIT:FLXI-ETFP,https://www.google.com/finance/quote/FLXI-ETFP:BIT,EUR,"39,48",Fra
 NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"53,88",iShares Bitcoin Trust ETF,"2,00%",Commodity
 USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,8613",Dollar Eur Exchange,,Cambio
 ,,,,,,
-Data,24/10/2025  09:45,,,,,
+Data,24/10/2025  09:47,,,,,
