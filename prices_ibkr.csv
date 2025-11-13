@@ -1,14 +1,14 @@
 Ticker,URL,Fund Currency,Price in EUR,Extended Name,Asset Allocation,Asset Class
 TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,"220,03",iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
 AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"163,54",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
-BIT:US10-EUR,https://www.google.com/finance/quote/US10-EUR:BIT,EUR,"91,85",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
+BIT:US10-EUR,https://www.google.com/finance/quote/US10-EUR:BIT,EUR,"91,72",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
 AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"232,8",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
 IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,"151,02",iShares   Govt Bond 10-15yr UCITS ETF EUR (Dist),"10,00%",Govt Bond
-BIT:SGLD-ETFP,https://www.google.com/finance/quote/SGLD-ETFP:BIT,EUR,"350,25",Invesco Physical Gold ETC,"5,50%",Commodity
-AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"111,94",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
+BIT:SGLD-ETFP,https://www.google.com/finance/quote/SGLD-ETFP:BIT,EUR,"351,17",Invesco Physical Gold ETC,"5,50%",Commodity
+AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"112,03",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
 EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,n/a,n/a,"7,50%",Commodity
-BIT:FLXI-ETFP,https://www.google.com/finance/quote/FLXI-ETFP:BIT,EUR,"39,24",Franklin FTSE India UCITS ETF,"1,00%",Stocks
-NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"49,60",iShares Bitcoin Trust ETF,"2,00%",Commodity
-USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,86126",Dollar Eur Exchange,,Cambio
+BIT:FLXI-ETFP,https://www.google.com/finance/quote/FLXI-ETFP:BIT,EUR,"39,2",Franklin FTSE India UCITS ETF,"1,00%",Stocks
+NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"49,55",iShares Bitcoin Trust ETF,"2,00%",Commodity
+USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,86047",Dollar Eur Exchange,,Cambio
 ,,,,,,
-Rome Time:,13/11/2025  10:41,,,,,
+Rome Time:,13/11/2025  10:56,,,,,
