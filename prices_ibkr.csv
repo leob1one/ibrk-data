@@ -1,14 +1,14 @@
 Ticker,URL,Fund Currency,Price in EUR,Extended Name,Asset Allocation,Asset Class
 TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,"217,16",iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
 AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"161,13",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
-BIT:US10,https://www.google.com/finance/quote/US10:BIT,EUR,"86,47",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
+BIT:US10,https://www.google.com/finance/quote/US10:BIT,EUR,"86,2",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
 AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"229,5",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
 IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,"149,06",iShares   Govt Bond 10-15yr UCITS ETF EUR (Dist),"10,00%",Govt Bond
-BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"355,67",Invesco Physical Gold ETC,"5,50%",Commodity
-AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"111,33",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
+BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"356,24",Invesco Physical Gold ETC,"5,50%",Commodity
+AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"111,67",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
 BIT:COMO,https://www.google.com/finance/quote/COMO:BIT,EUR,n/a,n/a,"7,50%",Commodity
 BIT:FLXI,https://www.google.com/finance/quote/FLXI:BIT,EUR,"38,76",Franklin FTSE India UCITS  ETF,"1,00%",Stocks
-NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"50,85",iShares Bitcoin Trust ETF,"2,00%",Commodity
-USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,85173",Dollar Eur Exchange,,Currency
+NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"50,73",iShares Bitcoin Trust ETF,"2,00%",Commodity
+USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,851201471",Dollar Eur Exchange,,Currency
 ,,,,,,
-Rome Time:,02/01/2026  17:56,,,,,
+Rome Time:,02/01/2026  18:11,,,,,
