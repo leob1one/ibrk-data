@@ -4,11 +4,11 @@ AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"161,31",iShares   Go
 BIT:US10,https://www.google.com/finance/quote/US10:BIT,EUR,"86,19",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
 AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"230,41",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
 IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,"149,44",iShares   Govt Bond 10-15yr UCITS ETF EUR (Dist),"10,00%",Govt Bond
-BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"367,13",Invesco Physical Gold ETC,"5,50%",Commodity
-AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"112,75",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
+BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"367,12",Invesco Physical Gold ETC,"5,50%",Commodity
+AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"112,88",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
 BIT:COMO,https://www.google.com/finance/quote/COMO:BIT,EUR,n/a,n/a,"7,50%",Commodity
 BIT:FLXI,https://www.google.com/finance/quote/FLXI:BIT,EUR,"38,55",Franklin FTSE India UCITS  ETF,"1,00%",Stocks
 NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"53,46",iShares Bitcoin Trust ETF,"2,00%",Commodity
-USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,85458",Dollar Eur Exchange,,Currency
+USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,85411",Dollar Eur Exchange,,Currency
 ,,,,,,
-Rome Time:,06/01/2026  14:56,,,,,
+Rome Time:,06/01/2026  15:11,,,,,
