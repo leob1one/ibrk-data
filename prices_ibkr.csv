@@ -1,14 +1,14 @@
 Ticker,URL,Fund Currency,Price in EUR,Extended Name,Asset Allocation,Asset Class
 TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,219,iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
-AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"161,47",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
+AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"161,53",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
 BIT:US10,https://www.google.com/finance/quote/US10:BIT,EUR,"87,03",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
-AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"231,19",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
+AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"231,29",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
 IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,"150,13",iShares   Govt Bond 10-15yr UCITS ETF EUR (Dist),"10,00%",Govt Bond
-BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"371,7",Invesco Physical Gold ETC,"5,50%",Commodity
-AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,114,iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
+BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"372,56",Invesco Physical Gold ETC,"5,50%",Commodity
+AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"114,06",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
 BIT:COMO,https://www.google.com/finance/quote/COMO:BIT,EUR,n/a,n/a,"7,50%",Commodity
-BIT:FLXI,https://www.google.com/finance/quote/FLXI:BIT,EUR,"38,1",Franklin FTSE India UCITS  ETF,"1,00%",Stocks
-NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"51,10",iShares Bitcoin Trust ETF,"2,00%",Commodity
-USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,86023",Dollar Eur Exchange,,Currency
+BIT:FLXI,https://www.google.com/finance/quote/FLXI:BIT,EUR,"38,07",Franklin FTSE India UCITS  ETF,"1,00%",Stocks
+NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"52,04",iShares Bitcoin Trust ETF,"2,00%",Commodity
+USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,859350159",Dollar Eur Exchange,,Currency
 ,,,,,,
-Rome Time:,09/01/2026  17:26,,,,,
+Rome Time:,09/01/2026  17:41,,,,,
