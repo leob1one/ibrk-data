@@ -2,13 +2,13 @@ Ticker,URL,Fund Currency,Price,Extended Name,Asset Allocation,Asset Class
 TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,"218,89",iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
 AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"161,51",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
 BIT:US10,https://www.google.com/finance/quote/US10:BIT,EUR,"86,9",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
-AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"231,32",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
+AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"231,41",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
 IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,"150,09",iShares   Govt Bond 10-15yr UCITS ETF EUR (Dist),"10,00%",Govt Bond
-BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"378,49",Invesco Physical Gold ETC,"5,50%",Commodity
-AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"114,13",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
-EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,"29,44",Amundi Blbrg EqlWghCmdtexAgrcltr UCITS ETF A,"7,50%",Commodity
+BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"378,51",Invesco Physical Gold ETC,"5,50%",Commodity
+AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"114,19",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
+EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,"29,46",Amundi Blbrg EqlWghCmdtexAgrcltr UCITS ETF A,"7,50%",Commodity
 BIT:FLXI,https://www.google.com/finance/quote/FLXI:BIT,EUR,"37,99",Franklin FTSE India UCITS  ETF,"1,00%",Stocks
 NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"51,87",iShares Bitcoin Trust ETF,"2,00%",Commodity
 USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,86",Dollar Eur Exchange,,Currency
 ,,,,,,
-Rome Time:,13/01/2026  13:11,,,,,
+Rome Time:,13/01/2026  13:26,,,,,
