@@ -1,14 +1,14 @@
 Ticker,URL,Fund Currency,Price,Extended Name,Asset Allocation,Asset Class
-TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,"217,41",iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
-AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"161,56",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
-BIT:US10,https://www.google.com/finance/quote/US10:BIT,EUR,"86,34",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
-AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"232,51",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
-IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,148,iShares   Govt Bond 10-15yr UCITS ETF EUR (Dist),"10,00%",Govt Bond
-BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"407,63",Invesco Physical Gold ETC,"5,50%",Commodity
-AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"112,78",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
-EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,"31,43",Amundi Blbrg EqlWghCmdtexAgrcltr UCITS ETF A,"7,50%",Commodity
-BIT:FLXI,https://www.google.com/finance/quote/FLXI:BIT,EUR,"36,2",Franklin FTSE India UCITS  ETF,"1,00%",Stocks
-NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"50,70",iShares Bitcoin Trust ETF,"2,00%",Commodity
+TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,n/a,n/a,"10,00%",TIPS
+AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,n/a,n/a,"15,00%",Govt Bond
+BIT:US10,https://www.google.com/finance/quote/US10:BIT,EUR,n/a,n/a,"10,00%",Govt Bond
+AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,n/a,n/a,"10,00%",TIPS
+IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,n/a,n/a,"10,00%",Govt Bond
+BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,n/a,n/a,"5,50%",Commodity
+AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,n/a,n/a,"29,00%",Stocks
+EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,n/a,n/a,"7,50%",Commodity
+BIT:FLXI,https://www.google.com/finance/quote/FLXI:BIT,EUR,n/a,n/a,"1,00%",Stocks
+NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,#N/A,n/a,"2,00%",Commodity
 USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,85",Dollar Eur Exchange,,Currency
 ,,,,,,
-Rome Time:,24/01/2026  00:41,,,,,
+Rome Time:,24/01/2026  00:56,,,,,
