@@ -2,13 +2,13 @@ Ticker,URL,Fund Currency,Price,Extended Name,Asset Allocation,Asset Class
 TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,"215,68",iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
 AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"162,04",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
 BIT:US10,https://www.google.com/finance/quote/US10:BIT,EUR,"85,62",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
-AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"233,47",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
+AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"233,46",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
 IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,"148,15",iShares   Govt Bond 10-15yr UCITS ETF EUR (Dist),"10,00%",Govt Bond
-BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"387,57",Invesco Physical Gold ETC,"5,50%",Commodity
-AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"111,96",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
-EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,"29,24",Amundi Blbrg EqlWghCmdtexAgrcltr UCITS ETF A,"7,50%",Commodity
-BIT:FLXI,https://www.google.com/finance/quote/FLXI:BIT,EUR,"36,07",Franklin FTSE India UCITS  ETF,"1,00%",Stocks
+BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"386,58",Invesco Physical Gold ETC,"5,50%",Commodity
+AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"111,94",iShares Core MSCI World UCITS ETF USD (Acc),"29,00%",Stocks
+EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,"29,19",Amundi Blbrg EqlWghCmdtexAgrcltr UCITS ETF A,"7,50%",Commodity
+BIT:FLXI,https://www.google.com/finance/quote/FLXI:BIT,EUR,"36,08",Franklin FTSE India UCITS  ETF,"1,00%",Stocks
 NASDAQ:IBIT,https://www.google.com/finance/quote/IBIT:NASDAQ,USD,"47,49",iShares Bitcoin Trust ETF,"2,00%",Commodity
 USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,84",Dollar Eur Exchange,,Currency
 ,,,,,,
-Rome Time:,02/02/2026  14:11,,,,,
+Rome Time:,02/02/2026  14:26,,,,,
