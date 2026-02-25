@@ -1,13 +1,13 @@
 Ticker,URL,Fund Currency,Price,Extended Name,Asset Allocation,Asset Class
-TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,"218,76",iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
-AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"162,88",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
+TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,"219,24",iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
+AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"162,85",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
 BIT:US10,https://www.google.com/finance/quote/US10:BIT,EUR,"88,31",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
-AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"235,19",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
+AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"235,41",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
 IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,"150,98",iShares   Govt Bond 10-15yr UCITS ETF EUR (Dist),"10,00%",Govt Bond
-BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"424,09",Invesco Physical Gold ETC,"7,50%",Commodity
-AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"114,21",iShares Core MSCI World UCITS ETF USD (Acc),"28,50%",Stocks
-EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,"30,78",Amundi Blbrg EqlWghCmdtexAgrcltr UCITS ETF A,"7,50%",Commodity
-AMS:EMIM,https://www.google.com/finance/quote/EMIM:AMS,EUR,"44,04",iShares Core MSCI EM IMI UCITS ETF USD Acc,"1,50%",Stocks
+BIT:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"423,27",Invesco Physical Gold ETC,"7,50%",Commodity
+AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"114,22",iShares Core MSCI World UCITS ETF USD (Acc),"28,50%",Stocks
+EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,"30,74",Amundi Blbrg EqlWghCmdtexAgrcltr UCITS ETF A,"7,50%",Commodity
+AMS:EMIM,https://www.google.com/finance/quote/EMIM:AMS,EUR,"44,06",iShares Core MSCI EM IMI UCITS ETF USD Acc,"1,50%",Stocks
 USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,85",Dollar Eur Exchange,,Currency
 ,,,,,,
-Rome Time:,25/02/2026  16:26,,,,,
+Rome Time:,25/02/2026  16:40,,,,,
