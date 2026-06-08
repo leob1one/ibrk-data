@@ -1,5 +1,5 @@
 Ticker,URL,Fund Currency,Price,Extended Name,Asset Allocation,Asset Class
-TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,"223,9",iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
+TPSA,https://www.google.com/finance/quote/TPSA:AMS,EUR,224,iShares $ TIPS UCITS ETF USD (Acc),"10,00%",TIPS
 AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"158,7",iShares   Govt Bond 3-5yr UCITS ETF EUR (Dist),"15,00%",Govt Bond
 BIT:US10,https://www.google.com/finance/quote/US10:BIT,EUR,"87,02",Amundi US Treasury Bond Long Dated UCITS ETF Dist,"10,00%",Govt Bond
 AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"236,91",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
@@ -10,4 +10,4 @@ EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,"36,39",Amundi Blbrg 
 AMS:EMIM,https://www.google.com/finance/quote/EMIM:AMS,EUR,"46,14",iShares Core MSCI EM IMI UCITS ETF USD Acc,"2,00%",Stocks
 USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,87",Dollar Eur Exchange,,Currency
 ,,,,,,
-Rome Time:,08/06/2026  12:41,,,,,
+Rome Time:,08/06/2026  12:56,,,,,
