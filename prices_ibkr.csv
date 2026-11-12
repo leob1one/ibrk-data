@@ -4,10 +4,10 @@ AMS:IBGX,https://www.google.com/finance/quote/IBGX:AMS,EUR,"157,46",iShares   Go
 US10,https://www.borsaitaliana.it/borsa/etf/scheda/LU1407890620-ETFP.html,EUR,"88,39",Amundi Us Treas Bnd Long Datd Ucits Etf,"10,00%",Govt Bond
 AMS:IBCI,https://www.google.com/finance/quote/IBCI:AMS,EUR,"230,99",iShares   Inflation Linked Govt Bd UCITS ETF EUR A,"10,00%",TIPS
 IEGZ,https://www.google.com/finance/quote/IEGZ:AMS,EUR,"139,96",iShares   Govt Bond 10-15yr UCITS ETF EUR (Dist),"10,00%",Govt Bond
-AMS:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"342,2",Invesco Physical Gold ETC,"7,50%",Commodity
+AMS:SGLD,https://www.google.com/finance/quote/SGLD:BIT,EUR,"340,91",Invesco Physical Gold ETC,"7,50%",Commodity
 AMS:IWDA,https://www.google.com/finance/quote/IWDA:AMS,EUR,"130,76",iShares Core MSCI World UCITS ETF USD (Acc),"27,00%",Stocks
-EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,"37,34",Amundi Blbrg EqlWghCmdtexAgrcltr UCITS ETF A,"7,50%",Commodity
-AMS:EMIM,https://www.google.com/finance/quote/EMIM:AMS,EUR,"45,21",iShares Core MSCI EM IMI UCITS ETF USD Acc,"3,00%",Stocks
+EPA:COMO,https://www.google.com/finance/quote/COMO:EPA,EUR,"37,23",Amundi Blbrg EqlWghCmdtexAgrcltr UCITS ETF A,"7,50%",Commodity
+AMS:EMIM,https://www.google.com/finance/quote/EMIM:AMS,EUR,"45,23",iShares Core MSCI EM IMI UCITS ETF USD Acc,"3,00%",Stocks
 USD/EUR,https://www.google.com/finance/quote/USD-EUR,USD/EUR,"0,90",Dollar Eur Exchange,,Currency
 ,,,,,,
-Rome Time:,12/11/2026  11:26,,,,,
+Rome Time:,12/11/2026  11:41,,,,,
